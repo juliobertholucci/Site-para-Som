@@ -1,2 +1,2 @@
 # Site-para-Som
-Utilizados: HTML, CSS, JavaScript e Bootstrap4
+Utilizados: HTML, CSS, JavaScript, Bootstrap4 & JQuery
